@@ -3,7 +3,7 @@
 # Date: 11/11/2018
 # Version: 0.0.1
 # Goal: Installing zabbix client.
-# Comments: Please refer the Additional Notes file.
+# Comments:
 ################################################################################
 
 #!/bin/bash
